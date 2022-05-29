@@ -3,7 +3,7 @@
 A practice making an App using React Native
 
 This is the home of the Pokedex App, A list of all pokemons API.
-![SHOWS!](./readmeAssets/Screenshot_2.png)
+![SHOWS!](./readmeAssets/Screenshot_2.png | width=250px height=400px)
 
 Here is the "details pokemon" screen on Pokedex App.
 ![SHOWS!](readmeAssets\Screenshot_5.png)
