@@ -18,6 +18,6 @@
 
 ![SHOWS!](./readmeAssets/Screenshot_3.png)
 
-## Log in Screen after you put your information account.
+## Account Screen.
 
 ![SHOWS!](./readmeAssets/Screenshot_4.png)
